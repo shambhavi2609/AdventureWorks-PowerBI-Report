@@ -65,7 +65,3 @@ This project was developed to demonstrate my ability to:
 ## Contact  
 Feel free to connect with me for feedback, collaboration, or further discussions:  
 - **LinkedIn**: https://www.linkedin.com/in/shambhavisharan/  
-
----
-
-Let me know if you'd like me to adjust any section or add more details!
